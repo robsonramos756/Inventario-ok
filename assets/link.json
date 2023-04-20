@@ -1,0 +1,39 @@
+{
+    "móveis": {
+      "imagem": "assets/moveis.jpg",
+      "conteúdo": "Itens disponíveis para Móveis"
+    },
+    "eletrônicos": {
+      "imagem": "assets/eletronicos.jpg",
+      "conteúdo": "Itens disponíveis para Eletrônicos"
+    },
+    "itens de manutenção": {
+      "imagem": "assets/itens_manutencao.jpg",
+      "conteúdo": "Itens disponíveis para Itens de Manutenção"
+    },
+    "estoque": {
+      "imagem": "assets/estoque.jpg",
+      "conteúdo": "Itens disponíveis para Estoque"
+    },
+    "maquinário": {
+      "imagem": "assets/maquinario.jpg",
+      "conteúdo": "Itens disponíveis para Maquinário"
+    },
+    "veículos": {
+      "imagem": "assets/veiculos.jpg",
+      "conteúdo": "Itens disponíveis para Veículos"
+    },
+    "itens de escritório": {
+      "imagem": "assets/itens_escritorio.jpg",
+      "conteúdo": "Itens disponíveis para Itens de Escritório"
+    },
+    "recursos para manutenção": {
+      "imagem": "assets/recursos_manutencao.jpg",
+      "conteúdo": "Itens disponíveis para Recursos para Manutenção"
+    },
+    "itens de segurança do trabalho": {
+      "imagem": "assets/itens_seguranca.jpg",
+      "conteúdo": "Itens disponíveis para Itens de Segurança do Trabalho"
+    }
+  }
+  

@@ -1,39 +1,13 @@
-{
-    "móveis": {
-      "imagem": "assets/moveis.jpg",
-      "conteúdo": "Itens disponíveis para Móveis"
-    },
-    "eletrônicos": {
-      "imagem": "assets/eletronicos.jpg",
-      "conteúdo": "Itens disponíveis para Eletrônicos"
-    },
-    "itens de manutenção": {
-      "imagem": "assets/itens_manutencao.jpg",
-      "conteúdo": "Itens disponíveis para Itens de Manutenção"
-    },
-    "estoque": {
-      "imagem": "assets/estoque.jpg",
-      "conteúdo": "Itens disponíveis para Estoque"
-    },
-    "maquinário": {
-      "imagem": "assets/maquinario.jpg",
-      "conteúdo": "Itens disponíveis para Maquinário"
-    },
-    "veículos": {
-      "imagem": "assets/veiculos.jpg",
-      "conteúdo": "Itens disponíveis para Veículos"
-    },
-    "itens de escritório": {
-      "imagem": "assets/itens_escritorio.jpg",
-      "conteúdo": "Itens disponíveis para Itens de Escritório"
-    },
-    "recursos para manutenção": {
-      "imagem": "assets/recursos_manutencao.jpg",
-      "conteúdo": "Itens disponíveis para Recursos para Manutenção"
-    },
-    "itens de segurança do trabalho": {
-      "imagem": "assets/itens_seguranca.jpg",
-      "conteúdo": "Itens disponíveis para Itens de Segurança do Trabalho"
-    }
-  }
-  
+[ 
+{   "image": "assets/veiculos.jpg",  "message": "3 veiculos volkswagen gol e 2 fiats uno"  },  
+{    "image": "assets/moveis.jpg",    "message": "50 mesas, 2 bancadas"  },  
+{    "image": "assets/eletronicos.jpg",    "message": "20 notebooks e 30 tablets"  },  
+{    "image": "assets/estoque.jpg",    "message": "No estoque a empresa tem um total de 700.000 unidades"  },  
+{    "image": "assets/itens_seguranca.jpg",    "message": "2 detectores de metal e um circuito completto de câmeras de segurança"  },  
+{    "image": "assets/itens_escritorio.jpg",    "message": "15 armarios e 1 datashow"  },  
+{    "image": "assets/recursos_manutencao.jpg",    "message": "R$300.000"  },  
+{    "image": "assets/maquinario.jpg",    "message": "2 empilhadeiras"  },  
+{    "image": "assets/itens_manutencao.jpg",    "message": "5 jogos de chaves diversas"  }
+]
+
+

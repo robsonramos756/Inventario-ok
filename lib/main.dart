@@ -1,23 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:inventario_ok/Feed.dart';
 
-void main() {
-  runApp(InventarioApp());
-}
+void main() => runApp(MyApp());
 
-class InventarioApp extends StatelessWidget {
-  const InventarioApp({super.key});
-
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Inventário OK',
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Inventário OK'),
-        ),
-        body: Feed(),
+      title: 'Feed de Imagens',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
+      home: HomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

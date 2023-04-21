@@ -39,7 +39,6 @@ class _HomePageState extends State<HomePage> {
   }
 
   Future<void> _loadFeedData() async {
-    // Load JSON data
     String jsonData =
         await DefaultAssetBundle.of(context).loadString('assets/link.json');
     setState(() {

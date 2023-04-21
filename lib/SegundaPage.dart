@@ -20,7 +20,7 @@ class SegundaPage extends StatelessWidget {
             padding: const EdgeInsets.all(16.0),
             child: Text(
               message,
-              style: TextStyle(fontSize: 60),
+              style: TextStyle(fontSize: 40),
               textAlign: TextAlign.center,
             ),
           ),
